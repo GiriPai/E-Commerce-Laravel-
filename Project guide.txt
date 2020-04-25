@@ -1,0 +1,30 @@
+E-Commerce online Web application Guide
+
+1) Xampp Installation
+
+	*) Download xampp from www.apachefriends.org/index.html
+	*) Installed in D:XAMPP\
+
+2) Sublime Text Editor Installation
+
+	*) Download from https://www.sublimetext.com/3
+	*) Installed in C:\Program Files\Sublime Text 3 drive
+
+3) Composer Installation
+
+	*)  Download from https://getcomposer.org/download/
+	*)  Run composer-setup.exe file in that site
+	*)  Install location D:\XAMPP\php\php.exe
+	
+
+Concepts
+	*)  https://www.elprocus.com/different-types-of-integrated-circuits/
+
+
+Classification of ICs (Integrated Circuits)
+Below is the classification of different types of ICs basis on their chip size.
+
+SSI: Small scale integration. 3 – 30 gates per chip.
+MSI: Medium scale integration. 30 – 300 gates per chip.
+LSI: Large scale integration. 300 – 3,000 gates per chip.
+VLSI: Very large scale integration. More than 3,000 gates per chip
